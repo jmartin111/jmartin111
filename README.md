@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jeff
 - 👀 I’m interested in Automation
-- 🌱 I’m currently learning moAr PyThOn
+- 🌱 I’m currently refreshing on Flask
 - 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me ...
 

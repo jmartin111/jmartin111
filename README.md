@@ -2,7 +2,7 @@
 - 👀 I’m interested in Automation
 - 🌱 I’m currently refreshing on Flask
 - 💞️ ...
-- 📫 Mesage me here
+- 📫 linkedin.com/in/jeffreyedwinmartin
 
 <!---
 jmartin111/jmartin111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
